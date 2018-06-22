@@ -2,7 +2,7 @@
 Name=Image for Linux
 Comment=TeraByte Image for Linux
 GenericName=ifl
-Exec=gksu /opt/ifl/imagel %U
+Exec=gksu /opt/ifl/imagel
 Icon=ifl
 Type=Application
 StartupNotify=true
