@@ -7,7 +7,7 @@ pkgdesc="TeraByte Image for Linux"
 arch=('x86_64')
 url="https://www.terabyteunlimited.com/image-for-linux.htm"
 license=('Custom')
-depends=('xdg-utils' 'zensu' 'sshfs' 'lib32-libxft' 'lib32-libpng12')
+depends=('xdg-utils' 'zensu' 'sshfs' 'lib32-libxft' 'lib32-libpng12' 'lib32-libxinerama')
 source_x86_64=("ifl.tar.gz")
 source=($pkgname.desktop
         $pkgname.png)
