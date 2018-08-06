@@ -1,7 +1,7 @@
 # Maintainer: liberodark
 
 pkgname=ifl
-pkgver=3.18
+pkgver=3.21
 pkgrel=1
 pkgdesc="TeraByte Image for Linux"
 arch=('x86_64')
